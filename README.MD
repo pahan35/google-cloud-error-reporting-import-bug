@@ -10,3 +10,7 @@ To run project run
 
 
 Then try to open default page http://localhost:8080/ in browser
+
+# Workaround
+
+Explanation may be found here https://stackoverflow.com/questions/55476842/importerror-no-module-named-google-cloud-error-reporting/55481717#55481717 
